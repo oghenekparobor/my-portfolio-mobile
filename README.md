@@ -1,10 +1,9 @@
-# portfolio_mobile
+# Oghenekparobor's Portfolio
 
-A new Flutter project.
+## Description
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This project is an hybrid app for of my portfolio. It contains little information about me, my skillset, links to my social media platform and
+ a link to donload my Resume.
 
 A few resources to get you started if this is your first Flutter project:
 
