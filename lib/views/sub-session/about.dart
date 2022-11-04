@@ -1,4 +1,5 @@
 import 'package:animate_do/animate_do.dart';
+import 'package:fancy_shimmer_image/fancy_shimmer_image.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -73,11 +74,17 @@ class AboutSubSection extends StatelessWidget {
                             SizedBox(
                               width: 400,
                               height: 400,
-                              child: Image.network(
-                                portfolio[i]['IMAGE']!,
+                              child: FancyShimmerImage(
+                                imageUrl: portfolio[i]['IMAGE']!,
+                                boxFit: BoxFit.cover,
+                                shimmerBackColor: Colors.grey.shade600,
+                                shimmerBaseColor: Colors.grey.shade100,
+                                errorWidget: Image.network(
+                                  'https://aeroclub-issoire.fr/wp-content/uploads/2020/05/image-not-found-300x225.jpg',
+                                  fit: BoxFit.cover,
+                                ),
                                 width: 400,
                                 height: 400,
-                                fit: BoxFit.cover,
                               ),
                             ),
                           ],
