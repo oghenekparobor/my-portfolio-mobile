@@ -1,9 +1,10 @@
-# Oghenekparobor's Portfolio
+# My Portfolio
 
-## Description
+[web portfolio](https://kparobor.me/)
+### Description
 
-This project is an hybrid app for of my portfolio. It contains little information about me, my skillset, links to my social media platform and
- a link to donload my Resume.
+This project is an hybrid app for of my portfolio. It contains little information about me, my skillset, 
+links to my social media platform and a link to donload my Resume.
 
 A few resources to get you started if this is your first Flutter project:
 
