@@ -23,18 +23,12 @@ class FooterLinks extends StatelessWidget {
                 : MainAxisAlignment.start,
             children: [
               IconButton(
-                icon: const Icon(
-                  Entypo.twitter,
-                  color: Colors.white38,
-                ),
+                icon: const Icon(Entypo.twitter),
                 onPressed: () async =>
                     launchUrl(Uri.parse('https://twitter.com/kpa_robor')),
               ),
               IconButton(
-                icon: const Icon(
-                  Entypo.linkedin,
-                  color: Colors.white38,
-                ),
+                icon: const Icon(Entypo.linkedin),
                 onPressed: () async => launchUrl(Uri.parse(
                     'https://www.linkedin.com/in/oghenekparobor-eminokanju-ab9038180/')),
               ),

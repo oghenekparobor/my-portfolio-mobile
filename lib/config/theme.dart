@@ -36,6 +36,7 @@ ThemeData myTheme(BuildContext context) => ThemeData(
           color: Colors.black54,
         ),
       ),
+      iconTheme: const IconThemeData(color: Colors.black54),
     );
 
 ThemeData darkTheme(BuildContext context) => ThemeData(
@@ -74,4 +75,5 @@ ThemeData darkTheme(BuildContext context) => ThemeData(
           letterSpacing: 10,
         ),
       ),
+      iconTheme: const IconThemeData(color: Colors.white54),
     );
