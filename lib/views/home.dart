@@ -26,14 +26,9 @@ class Home extends StatelessWidget {
                             child: const LeftMain(),
                           ),
                         ),
-                        Expanded(
+                        const Expanded(
                           flex: 5,
-                          child: Stack(
-                            children: const [
-                              RightMain(),
-                              FooterLinks(),
-                            ],
-                          ),
+                          child: RightMain(),
                         ),
                       ],
                     )

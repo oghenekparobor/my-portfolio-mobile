@@ -37,7 +37,7 @@ class HomeService extends ChangeNotifier {
       case 0:
         return 'Home';
       case 1:
-        return 'About';
+        return 'Works';
       case 2:
         return 'Contact';
 

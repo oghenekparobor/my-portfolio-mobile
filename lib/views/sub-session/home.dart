@@ -67,7 +67,7 @@ class HomeSubSection extends StatelessWidget {
                                         ),
                                         const SizedBox(height: 5),
                                         Text(
-                                          'A Flutter developer with 5+ year experience in mobile development. Timely delivery and analytical thinking are my superpowers.',
+                                          'A flutter developer with 5+ year experience in mobile development. Timely delivery and analytical thinking are my superpowers.',
                                           maxLines: 3,
                                           overflow: TextOverflow.ellipsis,
                                           style: Theme.of(context)

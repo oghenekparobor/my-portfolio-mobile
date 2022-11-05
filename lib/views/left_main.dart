@@ -30,7 +30,7 @@ class LeftMainState extends State<LeftMain> {
           builder: (context, value, child) {
             var nav = [
               'Home',
-              'About',
+              'Works',
               'Contact',
             ];
 
