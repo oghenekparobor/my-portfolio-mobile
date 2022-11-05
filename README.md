@@ -2,6 +2,7 @@
 
 ### Description
 
+#### About the app
 This project is an hybrid app for of my portfolio. It contains little information about me, my skillset, 
 links to my social media platform and a link to donload my Resume.
 
