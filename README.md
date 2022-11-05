@@ -46,7 +46,9 @@ Below are the external libraries used
 [Fancy Shimmer Image](https://pub.dev/packages/fancy_shimmer_image), package created for the purpose of uploading images from the internet, giving the possibility of showing a beautiful Shimmer animation while the images are not loading.
 It was used to give off shimmer while image loads up to enhance/increase user experience.
 
-
-
-
-
+#### Future
+- A chatbot
+- Dino run game
+  
+The purpose of the chatbox will be to instantly message me. You would be able to share files, audio etc. via the chatbot.
+Then the Dino run game would be similar to that on chrome when there no internet connection. The user can entertain his/her self incase there's a detail in response from me 🙃
