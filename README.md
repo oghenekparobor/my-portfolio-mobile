@@ -4,7 +4,11 @@
 
 #### About the app
 This project is an hybrid app for of my portfolio. It contains little information about me, my skillset, 
-links to my social media platform and a link to donload my Resume.
+links to my social media platform and a link to donload my Resume. 
+This portfolio is a one pager app with mulitple sessions held together by a pageview. Animations on this project used includes:
+- - Slide In Right
+- - Slide In Top
+- - Elastic In etc.
 
 #### About the codebase
 The project was built with flutter. Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. First described in 2015, Flutter was released in May 2017.
@@ -19,8 +23,8 @@ During development, Flutter apps run in a VM that offers stateful hot reload of 
 - Step 5: with either your live device connected or emulator running, run "flutter run" to run the project.
 - Step 6: Enjoy the view.
 
+#### Design
 This portfolio is almost a reflection of my [web portfolio](https://kparobor.me/).
-
-The inspiration for the design of my portfolio was gotten from [dribble](https://dribbble.com/shots/6719179-Photographer-Portfolio-animation)
+The inspiration for the design of my portfolio was gotten from this [dribble](https://dribbble.com/shots/6719179-Photographer-Portfolio-animation) design by [Ihor Humeniuk](https://dribbble.com/HumeniukIhor)
 
 
