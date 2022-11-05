@@ -71,7 +71,13 @@ class AboutSubSection extends StatelessWidget {
                               style: Theme.of(context).textTheme.headline2,
                             ),
                             const SizedBox(height: 10),
-                            SizedBox(
+                            Container(
+                              decoration: BoxDecoration(
+                                border: Border.all(
+                                  color: Colors.grey.shade300,
+                                  width: 1,
+                                ),
+                              ),
                               width: 400,
                               height: 400,
                               child: FancyShimmerImage(

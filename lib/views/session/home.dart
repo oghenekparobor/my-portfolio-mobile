@@ -12,10 +12,12 @@ class HomeSection extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            Text(
-              'Oghenekparobor',
-              style: Theme.of(context).textTheme.headline1!.copyWith(
-                  fontSize: orientation != Orientation.landscape ? 18 : 30),
+            FittedBox(
+              child: Text(
+                'Oghenekparobor',
+                style: Theme.of(context).textTheme.headline1!.copyWith(
+                    fontSize: orientation != Orientation.landscape ? 18 : 30),
+              ),
             ),
           ],
         ),

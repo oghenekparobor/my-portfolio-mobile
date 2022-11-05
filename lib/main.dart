@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Oghenekparobor',
         theme: myTheme(context),
+        debugShowCheckedModeBanner: false,
         onGenerateRoute: (s) => MyRouter.generateRoute(s),
         darkTheme: darkTheme(context),
         builder: (context, child) {

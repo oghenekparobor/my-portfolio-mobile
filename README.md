@@ -51,3 +51,7 @@ It was used to give off shimmer while image loads up to enhance/increase user ex
   
 The purpose of the chatbox will be to instantly message me. You would be able to share files, audio etc. via the chatbot.
 Then the Dino run game would be similar to that on chrome when there no internet connection. The user can entertain his/her self incase there's a detail in response from me 🙃
+
+
+#### App
+[View on Appetize](https://appetize.io/app/jjyv67ougul2qfkqla2bmoeqrq)
