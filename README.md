@@ -54,4 +54,4 @@ Then the Dino run game would be similar to that on chrome when there no internet
 
 
 #### App
-[View on Appetize](https://appetize.io/app/jjyv67ougul2qfkqla2bmoeqrq)
+[View on Appetize](https://appetize.io/app/bmb6ovl43hg6htyxfl3n3rwszy)
